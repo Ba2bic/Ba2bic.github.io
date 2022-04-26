@@ -1,0 +1,109 @@
+div.jumbotron.carousel-hero {
+  color: #fff;
+  text-align: center;
+  background-size: cover;
+  background-position: center;
+  padding-top: 100px;
+  padding-bottom: 100px;
+  margin-bottom: 0;
+}
+
+div.jumbotron.hero-nature {
+  background-image: url('../../assets/img/hero-background-nature.jpg');
+  height: 750px;
+}
+
+div.jumbotron.hero-photography {
+  background-image: url('../../assets/img/hero-background-photography.jpg');
+  height: 750px;
+}
+
+div.jumbotron.hero-technology {
+  background-image: url('../../assets/img/hero-background-technology.jpg');
+  height: 750px;
+}
+
+h1.hero-title, h2.hero-title, h3.hero-title {
+  text-shadow: 0 3px 3px rgba(0,0,0,0.4);
+  color: #fff;
+}
+
+p.hero-subtitle {
+  max-width: 600px;
+  margin: 25px auto;
+  padding: 10px 15px;
+  color: #fff;
+}
+
+.navbar-brand {
+  color: #fff;
+}
+
+.btn {
+}
+
+.btn:hover {
+  background-color: red;
+}
+
+h2 {
+  font-family: 'Montserrat';
+  font-weight: bold;
+}
+
+.name {
+  font-family: 'Montserrat';
+}
+
+.description {
+  font-family: 'Montserrat';
+}
+
+p {
+  font-family: 'Montserrat';
+}
+
+.name {
+  font-family: 'Montserrat';
+}
+
+.name {
+  font-family: 'Montserrat';
+}
+
+h2 {
+  font-family: 'Montserrat';
+}
+
+p {
+  font-family: 'Montserrat';
+}
+
+.navbar-items:hover {
+  color: black;
+}
+
+.btn:hover {
+  background-color: black;
+}
+
+a {
+  font-family: 'Montserrat';
+}
+
+h1 {
+  font-family: 'Montserrat';
+}
+
+h1 {
+  font-family: 'Montserrat';
+}
+
+h2 {
+  font-family: 'Montserrat';
+}
+
+h1 {
+  font-family: 'Montserrat';
+}
+
